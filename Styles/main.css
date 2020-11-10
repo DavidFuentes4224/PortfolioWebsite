@@ -1,0 +1,39 @@
+body {
+    background-color: #2d3436;
+}
+
+h1 {
+    font-weight: bold;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #dfe6e9;
+    font-size: 64px;
+}
+
+h2 {
+    color: #dfe6e9;
+    font-size: 48px;
+}
+
+p {
+    color: #dfe6e9;
+}
+
+ul, li {
+    color: #dfe6e9;
+}
+
+li {
+    font-size: 32px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+.keycode {
+    font-weight: bold;
+    display: inline;
+}
